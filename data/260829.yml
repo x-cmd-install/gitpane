@@ -1,0 +1,59 @@
+about:
+  description: Multi-repo Git workspace dashboard for the terminal
+  license: MIT
+  homepage: 
+  head: c44f1d9
+  archived: false
+  latestVersion: v0.14.1
+  collectedAt: 2026-08-29T07:22:55Z
+timeline:
+  created: 2026-02-24
+  lastCommit: 2026-08-27
+  lastRelease: 2026-08-27
+popularity:
+  star: 128
+  watcher: 3
+  fork: 4
+  release: 57
+  contributor: 2
+  pullRequest: 2
+  issue: 15
+language:
+  Rust: 1013377
+  Tape: 3719
+  Shell: 2917
+  Just: 2452
+totalLine: 1022465
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 10
+    mergedPR: 23
+    openPR: 1
+    closedIssue: 7
+    openIssue: 1
+    commit: 125
+  last90d:
+    since: 2026-05-31
+    release: 24
+    mergedPR: 41
+    openPR: 1
+    closedIssue: 12
+    openIssue: 1
+    commit: 239
+  last180d:
+    since: 2026-03-02
+    release: 48
+    mergedPR: 43
+    openPR: 1
+    closedIssue: 14
+    openIssue: 1
+    commit: 363
+  last360d:
+    since: 2025-09-03
+    release: 57
+    mergedPR: 43
+    openPR: 1
+    closedIssue: 14
+    openIssue: 1
+    commit: 473
