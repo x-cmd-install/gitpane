@@ -1,0 +1,59 @@
+about:
+  description: Multi-repo Git workspace dashboard for the terminal
+  license: MIT
+  homepage: 
+  head: edf1740
+  archived: false
+  latestVersion: v0.15.0
+  collectedAt: 2026-09-04T05:06:08Z
+timeline:
+  created: 2026-02-24
+  lastCommit: 2026-09-04
+  lastRelease: 2026-08-29
+popularity:
+  star: 130
+  watcher: 3
+  fork: 4
+  release: 58
+  contributor: 2
+  pullRequest: 1
+  issue: 16
+language:
+  Rust: 1039139
+  Tape: 3719
+  Shell: 2917
+  Just: 2452
+totalLine: 1048227
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 11
+    mergedPR: 24
+    openPR: 0
+    closedIssue: 9
+    openIssue: 0
+    commit: 84
+  last90d:
+    since: 2026-06-06
+    release: 19
+    mergedPR: 43
+    openPR: 0
+    closedIssue: 11
+    openIssue: 0
+    commit: 229
+  last180d:
+    since: 2026-03-08
+    release: 48
+    mergedPR: 47
+    openPR: 0
+    closedIssue: 16
+    openIssue: 0
+    commit: 370
+  last360d:
+    since: 2025-09-09
+    release: 58
+    mergedPR: 47
+    openPR: 0
+    closedIssue: 16
+    openIssue: 0
+    commit: 480
