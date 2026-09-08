@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4148044,
       "digest": "sha256:d998d773d119bea041ab357b9e2e84e7018b2c108ce03ce6b57db33ccaca37a2",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-05T17:12:19Z",
       "updated_at": "2026-09-05T17:12:19Z",
       "browser_download_url": "https://github.com/affromero/gitpane/releases/download/v0.15.1/gitpane-x86_64-pc-windows-msvc.zip"
