@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4137691,
       "digest": "sha256:0a4530b0c540e0013b631ca22600c8d9e2e9a857b4dc17c89528e67114c24cac",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-10T15:32:41Z",
       "updated_at": "2026-09-10T15:32:41Z",
       "browser_download_url": "https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4973096,
       "digest": "sha256:40c40d1ea8492a27832e67bcd4d9c3b625973a6a3d2e1ed721c284faa44a329d",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-10T15:32:41Z",
       "updated_at": "2026-09-10T15:32:41Z",
       "browser_download_url": "https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-x86_64-unknown-linux-gnu.tar.gz"
