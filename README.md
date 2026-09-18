@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 57 · **Open PRs**: 0 · **Closed issues**: 24 · **Open issues**: 0 · **Commits**: 621
+- **Releases**: 61 · **Merged PRs**: 57 · **Open PRs**: 2 · **Closed issues**: 24 · **Open issues**: 0 · **Commits**: 621
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 7 | 24 | 0 | 13 | 0 | 56 |
-| last60d | 2026-07-19 | 14 | 39 | 0 | 17 | 0 | 156 |
-| 90d | 2026-06-19 | 20 | 44 | 0 | 17 | 0 | 235 |
-| last180d | 2026-03-21 | 43 | 57 | 0 | 24 | 0 | 359 |
-| 360d | 2025-09-22 | 61 | 57 | 0 | 24 | 0 | 502 |
-| last720d | 2024-09-27 | 61 | 57 | 0 | 24 | 0 | 621 |
+| 30d | 2026-08-19 | 7 | 20 | 2 | 12 | 0 | 56 |
+| last60d | 2026-07-20 | 14 | 39 | 2 | 17 | 0 | 156 |
+| 90d | 2026-06-20 | 20 | 44 | 2 | 17 | 0 | 235 |
+| last180d | 2026-03-22 | 43 | 57 | 2 | 24 | 0 | 359 |
+| 360d | 2025-09-23 | 61 | 57 | 2 | 24 | 0 | 502 |
+| last720d | 2024-09-28 | 61 | 57 | 2 | 24 | 0 | 621 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gitpane lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:41:43Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:16:37Z._
