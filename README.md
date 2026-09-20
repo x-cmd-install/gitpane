@@ -4,7 +4,7 @@
 
 Multi-repo Git workspace dashboard for the terminal
 
-![gitpane](https://repo.x-cmd.io/gitpane.svg)
+[![x-cmd/install — gitpane Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gitpane.svg)](https://x-cmd.com/install/gitpane)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install gitpane
 
 ## Code insight
 
-Total: **27,785** lines of code across **106** files in the top 5 languages.
+Total: **29,690** lines of code across **109** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 27,219 | 1,338 | 2,658 | 92 |
+| Rust | 29,124 | 1,532 | 2,816 | 95 |
 | Python | 420 | 5 | 66 | 6 |
 | Toml | 76 | 77 | 28 | 2 |
 | Sh | 70 | 13 | 17 | 3 |
-| Markdown | 0 | 962 | 349 | 3 |
+| Markdown | 0 | 979 | 357 | 3 |
 
 ## OpenSSF Scorecard
 
@@ -41,39 +41,39 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.16.1` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Latest**: `v0.17.0` (2026-09-19)
+- **Last commit**: 2026-09-19
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 132 · **Forks**: 4 · **Open issues**: 24 · **Contributors**: 2
+- **Stars**: 132 · **Forks**: 4 · **Open issues**: 27 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 57 · **Open PRs**: 2 · **Closed issues**: 24 · **Open issues**: 0 · **Commits**: 621
+- **Releases**: 62 · **Merged PRs**: 62 · **Open PRs**: 0 · **Closed issues**: 27 · **Open issues**: 0 · **Commits**: 641
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 7 | 20 | 2 | 12 | 0 | 56 |
-| last60d | 2026-07-20 | 14 | 39 | 2 | 17 | 0 | 156 |
-| 90d | 2026-06-20 | 20 | 44 | 2 | 17 | 0 | 235 |
-| last180d | 2026-03-22 | 43 | 57 | 2 | 24 | 0 | 359 |
-| 360d | 2025-09-23 | 61 | 57 | 2 | 24 | 0 | 502 |
-| last720d | 2024-09-28 | 61 | 57 | 2 | 24 | 0 | 621 |
+| 30d | 2026-08-21 | 7 | 23 | 0 | 15 | 0 | 40 |
+| last60d | 2026-07-22 | 15 | 44 | 0 | 20 | 0 | 166 |
+| 90d | 2026-06-22 | 21 | 49 | 0 | 20 | 0 | 196 |
+| last180d | 2026-03-24 | 44 | 62 | 0 | 27 | 0 | 370 |
+| 360d | 2025-09-25 | 62 | 62 | 0 | 27 | 0 | 513 |
+| last720d | 2024-09-30 | 62 | 62 | 0 | 27 | 0 | 641 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gitpane-aarch64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-aarch64-apple-darwin.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
-| [gitpane-aarch64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-aarch64-unknown-linux-gnu.tar.gz) | 4.8 MiB | `native/linux/arm64/glibc` |
-| [gitpane-x86_64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-x86_64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/x64` |
-| [gitpane-x86_64-pc-windows-msvc.zip](https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-x86_64-pc-windows-msvc.zip) | 4.1 MiB | `native/win/x64` |
-| [gitpane-x86_64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-x86_64-unknown-linux-gnu.tar.gz) | 4.7 MiB | `native/linux/x64/glibc` |
-| [gitpane-x86_64-unknown-linux-musl.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-x86_64-unknown-linux-musl.tar.gz) | 5.0 MiB | `native/linux/x64/musl` |
+| [gitpane-aarch64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.17.0/gitpane-aarch64-apple-darwin.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [gitpane-aarch64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.17.0/gitpane-aarch64-unknown-linux-gnu.tar.gz) | 4.8 MiB | `native/linux/arm64/glibc` |
+| [gitpane-x86_64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.17.0/gitpane-x86_64-apple-darwin.tar.gz) | 4.2 MiB | `native/darwin/x64` |
+| [gitpane-x86_64-pc-windows-msvc.zip](https://github.com/affromero/gitpane/releases/download/v0.17.0/gitpane-x86_64-pc-windows-msvc.zip) | 4.1 MiB | `native/win/x64` |
+| [gitpane-x86_64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.17.0/gitpane-x86_64-unknown-linux-gnu.tar.gz) | 4.7 MiB | `native/linux/x64/glibc` |
+| [gitpane-x86_64-unknown-linux-musl.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.17.0/gitpane-x86_64-unknown-linux-musl.tar.gz) | 5.0 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for gitpane lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:16:37Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:16:49Z._

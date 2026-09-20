@@ -4,7 +4,7 @@
 
 Multi-repo Git workspace dashboard for the terminal
 
-![gitpane](https://repo.x-cmd.io/gitpane.svg?lang=zh)
+[![x-cmd/install — gitpane Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gitpane.svg?lang=zh)](https://x-cmd.com/install/gitpane)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install gitpane
 
 ## 代码洞察
 
-合计: **27,785** 行代码（覆盖前 5 种语言、共 **106** 个文件）。
+合计: **29,690** 行代码（覆盖前 5 种语言、共 **109** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 27,219 | 1,338 | 2,658 | 92 |
+| Rust | 29,124 | 1,532 | 2,816 | 95 |
 | Python | 420 | 5 | 66 | 6 |
 | Toml | 76 | 77 | 28 | 2 |
 | Sh | 70 | 13 | 17 | 3 |
-| Markdown | 0 | 962 | 349 | 3 |
+| Markdown | 0 | 979 | 357 | 3 |
 
 ## OpenSSF Scorecard 评分
 
@@ -41,39 +41,39 @@ x install gitpane
 
 ## 发布
 
-- **最新版本**: `v0.16.1` (2026-09-10)
-- **最近提交**: 2026-09-10
+- **最新版本**: `v0.17.0` (2026-09-19)
+- **最近提交**: 2026-09-19
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 132 · **Fork**: 4 · **开放 issue**: 24 · **贡献者**: 2
+- **Star**: 132 · **Fork**: 4 · **开放 issue**: 27 · **贡献者**: 2
 
 ## 累计统计
 
-- **发布数**: 61 · **已合并 PR**: 57 · **开放 PR**: 2 · **已关闭 issue**: 24 · **开放 issue**: 0 · **提交数**: 621
+- **发布数**: 62 · **已合并 PR**: 62 · **开放 PR**: 0 · **已关闭 issue**: 27 · **开放 issue**: 0 · **提交数**: 641
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 7 | 20 | 2 | 12 | 0 | 56 |
-| last60d | 2026-07-20 | 14 | 39 | 2 | 17 | 0 | 156 |
-| 90d | 2026-06-20 | 20 | 44 | 2 | 17 | 0 | 235 |
-| last180d | 2026-03-22 | 43 | 57 | 2 | 24 | 0 | 359 |
-| 360d | 2025-09-23 | 61 | 57 | 2 | 24 | 0 | 502 |
-| last720d | 2024-09-28 | 61 | 57 | 2 | 24 | 0 | 621 |
+| 30d | 2026-08-21 | 7 | 23 | 0 | 15 | 0 | 40 |
+| last60d | 2026-07-22 | 15 | 44 | 0 | 20 | 0 | 166 |
+| 90d | 2026-06-22 | 21 | 49 | 0 | 20 | 0 | 196 |
+| last180d | 2026-03-24 | 44 | 62 | 0 | 27 | 0 | 370 |
+| 360d | 2025-09-25 | 62 | 62 | 0 | 27 | 0 | 513 |
+| last720d | 2024-09-30 | 62 | 62 | 0 | 27 | 0 | 641 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gitpane-aarch64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-aarch64-apple-darwin.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
-| [gitpane-aarch64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-aarch64-unknown-linux-gnu.tar.gz) | 4.8 MiB | `native/linux/arm64/glibc` |
-| [gitpane-x86_64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-x86_64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/x64` |
-| [gitpane-x86_64-pc-windows-msvc.zip](https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-x86_64-pc-windows-msvc.zip) | 4.1 MiB | `native/win/x64` |
-| [gitpane-x86_64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-x86_64-unknown-linux-gnu.tar.gz) | 4.7 MiB | `native/linux/x64/glibc` |
-| [gitpane-x86_64-unknown-linux-musl.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.16.1/gitpane-x86_64-unknown-linux-musl.tar.gz) | 5.0 MiB | `native/linux/x64/musl` |
+| [gitpane-aarch64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.17.0/gitpane-aarch64-apple-darwin.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [gitpane-aarch64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.17.0/gitpane-aarch64-unknown-linux-gnu.tar.gz) | 4.8 MiB | `native/linux/arm64/glibc` |
+| [gitpane-x86_64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.17.0/gitpane-x86_64-apple-darwin.tar.gz) | 4.2 MiB | `native/darwin/x64` |
+| [gitpane-x86_64-pc-windows-msvc.zip](https://github.com/affromero/gitpane/releases/download/v0.17.0/gitpane-x86_64-pc-windows-msvc.zip) | 4.1 MiB | `native/win/x64` |
+| [gitpane-x86_64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.17.0/gitpane-x86_64-unknown-linux-gnu.tar.gz) | 4.7 MiB | `native/linux/x64/glibc` |
+| [gitpane-x86_64-unknown-linux-musl.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.17.0/gitpane-x86_64-unknown-linux-musl.tar.gz) | 5.0 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -84,4 +84,4 @@ gitpane 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:16:38Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:16:51Z._
