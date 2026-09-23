@@ -4,7 +4,7 @@
 
 Multi-repo Git workspace dashboard for the terminal
 
-[![x-cmd/install — gitpane Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gitpane.svg)](https://x-cmd.com/install/gitpane)
+[![x-cmd/install — gitpane Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gitpane.svg)](https://x-cmd.com/install/gitpane)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install gitpane
 
 ## Code insight
 
-Total: **29,690** lines of code across **109** files in the top 5 languages.
+Total: **30,513** lines of code across **110** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 29,124 | 1,532 | 2,816 | 95 |
+| Rust | 29,947 | 1,630 | 2,870 | 96 |
 | Python | 420 | 5 | 66 | 6 |
 | Toml | 76 | 77 | 28 | 2 |
 | Sh | 70 | 13 | 17 | 3 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.17.0` (2026-09-19)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-23
 - **Assets in release**: 6
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 62 · **Open PRs**: 1 · **Closed issues**: 27 · **Open issues**: 1 · **Commits**: 641
+- **Releases**: 62 · **Merged PRs**: 63 · **Open PRs**: 0 · **Closed issues**: 28 · **Open issues**: 0 · **Commits**: 648
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 7 | 23 | 1 | 15 | 1 | 40 |
-| last60d | 2026-07-24 | 15 | 43 | 1 | 20 | 1 | 166 |
-| 90d | 2026-06-24 | 20 | 49 | 1 | 20 | 1 | 196 |
-| last180d | 2026-03-26 | 44 | 62 | 1 | 27 | 1 | 370 |
-| 360d | 2025-09-27 | 62 | 62 | 1 | 27 | 1 | 513 |
-| last720d | 2024-10-02 | 62 | 62 | 1 | 27 | 1 | 641 |
+| 30d | 2026-08-24 | 7 | 24 | 0 | 16 | 0 | 46 |
+| last60d | 2026-07-25 | 15 | 44 | 0 | 21 | 0 | 172 |
+| 90d | 2026-06-25 | 20 | 49 | 0 | 21 | 0 | 202 |
+| last180d | 2026-03-27 | 44 | 63 | 0 | 28 | 0 | 376 |
+| 360d | 2025-09-28 | 62 | 63 | 0 | 28 | 0 | 519 |
+| last720d | 2024-10-03 | 62 | 63 | 0 | 28 | 0 | 648 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gitpane lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:36:39Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:43:05Z._

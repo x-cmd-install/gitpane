@@ -4,7 +4,7 @@
 
 Multi-repo Git workspace dashboard for the terminal
 
-[![x-cmd/install — gitpane Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gitpane.svg?lang=zh)](https://x-cmd.com/install/gitpane)
+[![x-cmd/install — gitpane Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gitpane.svg?lang=zh)](https://x-cmd.com/install/gitpane)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install gitpane
 
 ## 代码洞察
 
-合计: **29,690** 行代码（覆盖前 5 种语言、共 **109** 个文件）。
+合计: **30,513** 行代码（覆盖前 5 种语言、共 **110** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 29,124 | 1,532 | 2,816 | 95 |
+| Rust | 29,947 | 1,630 | 2,870 | 96 |
 | Python | 420 | 5 | 66 | 6 |
 | Toml | 76 | 77 | 28 | 2 |
 | Sh | 70 | 13 | 17 | 3 |
@@ -42,7 +42,7 @@ x install gitpane
 ## 发布
 
 - **最新版本**: `v0.17.0` (2026-09-19)
-- **最近提交**: 2026-09-19
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 6 个
 
 ## 流行度
@@ -51,18 +51,18 @@ x install gitpane
 
 ## 累计统计
 
-- **发布数**: 62 · **已合并 PR**: 62 · **开放 PR**: 1 · **已关闭 issue**: 27 · **开放 issue**: 1 · **提交数**: 641
+- **发布数**: 62 · **已合并 PR**: 63 · **开放 PR**: 0 · **已关闭 issue**: 28 · **开放 issue**: 0 · **提交数**: 648
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 7 | 23 | 1 | 15 | 1 | 40 |
-| last60d | 2026-07-24 | 15 | 43 | 1 | 20 | 1 | 166 |
-| 90d | 2026-06-24 | 20 | 49 | 1 | 20 | 1 | 196 |
-| last180d | 2026-03-26 | 44 | 62 | 1 | 27 | 1 | 370 |
-| 360d | 2025-09-27 | 62 | 62 | 1 | 27 | 1 | 513 |
-| last720d | 2024-10-02 | 62 | 62 | 1 | 27 | 1 | 641 |
+| 30d | 2026-08-24 | 7 | 24 | 0 | 16 | 0 | 46 |
+| last60d | 2026-07-25 | 15 | 44 | 0 | 21 | 0 | 172 |
+| 90d | 2026-06-25 | 20 | 49 | 0 | 21 | 0 | 202 |
+| last180d | 2026-03-27 | 44 | 63 | 0 | 28 | 0 | 376 |
+| 360d | 2025-09-28 | 62 | 63 | 0 | 28 | 0 | 519 |
+| last720d | 2024-10-03 | 62 | 63 | 0 | 28 | 0 | 648 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ gitpane 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:36:40Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:43:06Z._
