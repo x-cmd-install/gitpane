@@ -14,15 +14,15 @@ x install gitpane
 
 ## Code insight
 
-Total: **30,658** lines of code across **110** files in the top 5 languages.
+Total: **30,780** lines of code across **110** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 30,092 | 1,629 | 2,878 | 96 |
+| Rust | 30,214 | 1,596 | 2,838 | 96 |
 | Python | 420 | 5 | 66 | 6 |
 | Toml | 76 | 77 | 28 | 2 |
 | Sh | 70 | 13 | 17 | 3 |
-| Markdown | 0 | 983 | 359 | 3 |
+| Markdown | 0 | 1,026 | 364 | 3 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.17.1` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-24
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 132 · **Forks**: 4 · **Open issues**: 29 · **Contributors**: 2
+- **Stars**: 133 · **Forks**: 4 · **Open issues**: 30 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 65 · **Open PRs**: 0 · **Closed issues**: 29 · **Open issues**: 0 · **Commits**: 654
+- **Releases**: 63 · **Merged PRs**: 67 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 0 · **Commits**: 659
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 8 | 25 | 0 | 16 | 0 | 50 |
-| last60d | 2026-07-26 | 16 | 46 | 0 | 22 | 0 | 176 |
-| 90d | 2026-06-26 | 21 | 51 | 0 | 22 | 0 | 206 |
-| last180d | 2026-03-28 | 45 | 65 | 0 | 29 | 0 | 380 |
-| 360d | 2025-09-29 | 63 | 65 | 0 | 29 | 0 | 523 |
-| last720d | 2024-10-04 | 63 | 65 | 0 | 29 | 0 | 654 |
+| 30d | 2026-08-26 | 8 | 27 | 0 | 17 | 0 | 53 |
+| last60d | 2026-07-27 | 16 | 48 | 0 | 23 | 0 | 179 |
+| 90d | 2026-06-27 | 21 | 53 | 0 | 23 | 0 | 209 |
+| last180d | 2026-03-29 | 45 | 67 | 0 | 30 | 0 | 383 |
+| 360d | 2025-09-30 | 63 | 67 | 0 | 30 | 0 | 526 |
+| last720d | 2024-10-05 | 63 | 67 | 0 | 30 | 0 | 659 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gitpane lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:49:39Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:03:49Z._
