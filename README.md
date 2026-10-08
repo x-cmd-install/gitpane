@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 4 | 18 | 0 | 12 | 0 | 25 |
-| last60d | 2026-08-08 | 12 | 44 | 0 | 24 | 0 | 124 |
-| 90d | 2026-07-09 | 18 | 51 | 0 | 24 | 0 | 186 |
-| last180d | 2026-04-10 | 44 | 68 | 0 | 31 | 0 | 362 |
-| 360d | 2025-10-12 | 63 | 68 | 0 | 31 | 0 | 527 |
-| last720d | 2024-10-17 | 63 | 68 | 0 | 31 | 0 | 661 |
+| 30d | 2026-09-08 | 4 | 15 | 0 | 9 | 0 | 25 |
+| last60d | 2026-08-09 | 12 | 44 | 0 | 24 | 0 | 124 |
+| 90d | 2026-07-10 | 17 | 51 | 0 | 24 | 0 | 186 |
+| last180d | 2026-04-11 | 44 | 68 | 0 | 31 | 0 | 362 |
+| 360d | 2025-10-13 | 63 | 68 | 0 | 31 | 0 | 527 |
+| last720d | 2024-10-18 | 63 | 68 | 0 | 31 | 0 | 661 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gitpane lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:02:41Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:10:54Z._
