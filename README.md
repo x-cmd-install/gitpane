@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.17.1` (2026-09-23)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-16
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 136 · **Forks**: 4 · **Open issues**: 31 · **Contributors**: 2
+- **Stars**: 136 · **Forks**: 4 · **Open issues**: 32 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 69 · **Open PRs**: 1 · **Closed issues**: 31 · **Open issues**: 0 · **Commits**: 663
+- **Releases**: 63 · **Merged PRs**: 70 · **Open PRs**: 0 · **Closed issues**: 32 · **Open issues**: 0 · **Commits**: 666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 2 | 12 | 1 | 7 | 0 | 24 |
-| last60d | 2026-08-17 | 10 | 36 | 1 | 20 | 0 | 98 |
-| 90d | 2026-07-18 | 16 | 51 | 1 | 24 | 0 | 182 |
-| last180d | 2026-04-19 | 40 | 69 | 1 | 31 | 0 | 356 |
-| 360d | 2025-10-21 | 63 | 69 | 1 | 31 | 0 | 528 |
-| last720d | 2024-10-26 | 63 | 69 | 1 | 31 | 0 | 663 |
+| 30d | 2026-09-17 | 2 | 11 | 0 | 8 | 0 | 26 |
+| last60d | 2026-08-18 | 9 | 37 | 0 | 21 | 0 | 100 |
+| 90d | 2026-07-19 | 16 | 52 | 0 | 25 | 0 | 184 |
+| last180d | 2026-04-20 | 40 | 70 | 0 | 32 | 0 | 358 |
+| 360d | 2025-10-22 | 63 | 70 | 0 | 32 | 0 | 530 |
+| last720d | 2024-10-27 | 63 | 70 | 0 | 32 | 0 | 666 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gitpane lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:37:14Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:22:26Z._
