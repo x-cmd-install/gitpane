@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 137 · **Forks**: 4 · **Open issues**: 32 · **Contributors**: 2
+- **Stars**: 136 · **Forks**: 4 · **Open issues**: 32 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 5 | 1 | 3 | 0 | 4 |
-| last60d | 2026-08-24 | 8 | 31 | 1 | 20 | 0 | 79 |
-| 90d | 2026-07-25 | 16 | 51 | 1 | 25 | 0 | 183 |
-| last180d | 2026-04-26 | 40 | 70 | 1 | 32 | 0 | 358 |
-| 360d | 2025-10-28 | 63 | 70 | 1 | 32 | 0 | 530 |
-| last720d | 2024-11-02 | 63 | 70 | 1 | 32 | 0 | 666 |
+| 30d | 2026-09-24 | 0 | 3 | 1 | 2 | 0 | 4 |
+| last60d | 2026-08-25 | 8 | 30 | 1 | 19 | 0 | 79 |
+| 90d | 2026-07-26 | 16 | 51 | 1 | 25 | 0 | 183 |
+| last180d | 2026-04-27 | 40 | 70 | 1 | 32 | 0 | 358 |
+| 360d | 2025-10-29 | 63 | 70 | 1 | 32 | 0 | 530 |
+| last720d | 2024-11-03 | 63 | 70 | 1 | 32 | 0 | 666 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for gitpane lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:49:28Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:40:03Z._
