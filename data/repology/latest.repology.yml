@@ -62,9 +62,9 @@
   srcname: devel/gitpane
   binname: gitpane
   visiblename: devel/gitpane
-  version: 0.17.0
+  version: 0.17.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Multi-repo Git workspace dashboard for the terminal
   maintainers:
     - pkgsrc-users@netbsd.org
