@@ -2,105 +2,117 @@ about:
   description: "Multi-repo Git workspace dashboard for the terminal"
   license: MIT
   homepage: 
-  head: 3fa7cfe
+  head: b0416c9
   archived: false
-  latestVersion: "v0.17.1"
-  latestRelease: "v0.17.1"
+  latestVersion: "v0.18.0"
+  latestRelease: "v0.18.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T07:01:24Z
+  collectedAt: 2026-10-30T06:55:05Z
 timeline:
   created: 2026-02-24
-  lastCommit: 2026-10-24
-  lastVersion: 2026-09-23
-  lastRelease: 2026-09-23
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-30
+  lastRelease: 2026-10-30
   lastPrerelease: 
 popularity:
   star: 136
   watcher: 3
   fork: 4
-  release: 63
+  release: 64
   contributor: 2
-  pullRequest: 72
-  issue: 32
+  pullRequest: 75
+  issue: 33
 language:
-  Rust: 1370544
-  Python: 19966
+  Rust: 2222063
+  JavaScript: 1330765
+  Python: 37470
+  CSS: 15280
   Tape: 3719
   Shell: 2917
   Just: 2452
-totalBytes: 1399598
+totalBytes: 3614666
 recent:
   last30d:
-    since: 2026-09-29
-    release: 0
-    mergedPR: 3
-    openPR: 0
-    closedIssue: 1
+    since: 2026-09-30
+    release: 1
+    mergedPR: 4
+    openPR: 1
+    closedIssue: 2
     openIssue: 0
-    commit: 5
+    commit: 82
   last60d:
-    since: 2026-08-30
-    release: 5
-    mergedPR: 25
-    openPR: 0
-    closedIssue: 17
+    since: 2026-08-31
+    release: 6
+    mergedPR: 26
+    openPR: 1
+    closedIssue: 18
     openIssue: 0
-    commit: 53
+    commit: 130
   last90d:
-    since: 2026-07-31
-    release: 16
-    mergedPR: 51
-    openPR: 0
-    closedIssue: 25
+    since: 2026-08-01
+    release: 17
+    mergedPR: 52
+    openPR: 1
+    closedIssue: 26
     openIssue: 0
-    commit: 184
+    commit: 261
   last180d:
-    since: 2026-05-02
-    release: 40
-    mergedPR: 71
-    openPR: 0
-    closedIssue: 32
+    since: 2026-05-03
+    release: 41
+    mergedPR: 72
+    openPR: 1
+    closedIssue: 33
     openIssue: 0
-    commit: 360
+    commit: 437
   last360d:
-    since: 2025-11-03
-    release: 63
-    mergedPR: 71
-    openPR: 0
-    closedIssue: 32
+    since: 2025-11-04
+    release: 64
+    mergedPR: 72
+    openPR: 1
+    closedIssue: 33
     openIssue: 0
-    commit: 532
+    commit: 609
   last720d:
-    since: 2024-11-08
-    release: 63
-    mergedPR: 71
-    openPR: 0
-    closedIssue: 32
+    since: 2024-11-09
+    release: 64
+    mergedPR: 72
+    openPR: 1
+    closedIssue: 33
     openIssue: 0
-    commit: 669
+    commit: 747
 total:
-  release: 63
-  mergedPR: 71
-  openPR: 0
-  closedIssue: 32
+  release: 64
+  mergedPR: 72
+  openPR: 1
+  closedIssue: 33
   openIssue: 0
-  commit: 669
+  commit: 747
 ---
 path: /home/runner/.x-repo/github.com/affromero/gitpane
-collectedAt: 2026-10-29T07:01:25Z
+collectedAt: 2026-10-30T06:55:06Z
 loc:
   Rust:
-    code: 30207
-    comments: 1596
-    blanks: 2837
-    files: 96
+    code: 53257
+    comments: 1654
+    blanks: 3924
+    files: 153
+  JavaScript:
+    code: 23767
+    comments: 31
+    blanks: 1244
+    files: 85
   Python:
-    code: 420
+    code: 846
     comments: 5
-    blanks: 66
-    files: 6
+    blanks: 99
+    files: 9
+  Css:
+    code: 298
+    comments: 0
+    blanks: 26
+    files: 2
   Toml:
-    code: 75
+    code: 76
     comments: 77
     blanks: 28
     files: 2
@@ -109,16 +121,21 @@ loc:
     comments: 13
     blanks: 17
     files: 3
+  Json:
+    code: 65
+    comments: 0
+    blanks: 0
+    files: 1
   Markdown:
     code: 0
-    comments: 1033
-    blanks: 367
-    files: 3
+    comments: 1365
+    blanks: 429
+    files: 5
 total:
-  code: 30862
-  comments: 4989
-  blanks: 3392
-  files: 110
+  code: 78469
+  comments: 5449
+  blanks: 5844
+  files: 260
 ---
 date: "2026-06-11T19:41:59Z"
 repo:
@@ -268,4 +285,4 @@ checks:
     reason: 0 existing vulnerabilities detected
     details: null
 ---
-{"id":394772666,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDORXwmec4Xh8C6","tag_name":"v0.17.1","target_commitish":"main","name":"v0.17.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-23T14:49:25Z","updated_at":"2026-09-23T14:57:57Z","published_at":"2026-09-23T14:57:57Z","assets":[{"id":583991593,"node_id":"RA_kwDORXwmec4izwEp","name":"gitpane-aarch64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":4145327,"digest":"sha256:40e4678062de68a703ae4d2347d14a4701a4ffdc666bb7b14b9109285a5f3516","download_count":39,"created_at":"2026-09-23T14:57:56Z","updated_at":"2026-09-23T14:57:56Z"},{"id":583991589,"node_id":"RA_kwDORXwmec4izwEl","name":"gitpane-aarch64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":5044145,"digest":"sha256:4a776a44f0251cbb77197d7855f1113bb597da91925197418267039d112c9930","download_count":11,"created_at":"2026-09-23T14:57:56Z","updated_at":"2026-09-23T14:57:56Z"},{"id":583991588,"node_id":"RA_kwDORXwmec4izwEk","name":"gitpane-x86_64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":4359810,"digest":"sha256:f0e20e998e69c780991119b3fcca0e5de87e2c1eedd5c1823d6aa5c3bd7fbad9","download_count":4,"created_at":"2026-09-23T14:57:56Z","updated_at":"2026-09-23T14:57:56Z"},{"id":583991592,"node_id":"RA_kwDORXwmec4izwEo","name":"gitpane-x86_64-pc-windows-msvc.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":4345192,"digest":"sha256:25078dc5f720e01337e418ff6edd74102c9e98d9c80318e0bacb14c23a99af97","download_count":21,"created_at":"2026-09-23T14:57:56Z","updated_at":"2026-09-23T14:57:56Z"},{"id":583991590,"node_id":"RA_kwDORXwmec4izwEm","name":"gitpane-x86_64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":5001793,"digest":"sha256:d6baf7173799b0ab5dfa0f80962d747666a181a9bb51a57217d3db14de0d993d","download_count":68,"created_at":"2026-09-23T14:57:56Z","updated_at":"2026-09-23T14:57:56Z"},{"id":583991591,"node_id":"RA_kwDORXwmec4izwEn","name":"gitpane-x86_64-unknown-linux-musl.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":5261182,"digest":"sha256:e705556091c633c85de39ac5f482303f9d4445088f399c07d4c3923a8b75748f","download_count":53,"created_at":"2026-09-23T14:57:56Z","updated_at":"2026-09-23T14:57:56Z"}],"body":"## [0.17.1] - 2026-09-23\n\n### Fixed\n- Large diffs stay responsive while scrolling and clicking because text panes render only visible rows. ([#92](https://github.com/affromero/gitpane/pull/92), closes [#91](https://github.com/affromero/gitpane/issues/91)) Thanks @expoli for the report and implementation.\n- Virtualized text panes keep wide characters visible at the content edge and fill tall viewports at the maximum scroll position, including after a height-only resize. ([#94](https://github.com/affromero/gitpane/pull/94), closes [#93](https://github.com/affromero/gitpane/issues/93))\n\n---\n\nFull changelog: https://github.com/affromero/gitpane/blob/main/CHANGELOG.md\n","mentions_count":1}
+{"id":428668204,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDORXwmec4ZjPUs","tag_name":"v0.18.0","target_commitish":"main","name":"v0.18.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-30T04:29:28Z","updated_at":"2026-10-30T04:57:58Z","published_at":"2026-10-30T04:57:58Z","assets":[{"id":690983388,"node_id":"RA_kwDORXwmec4pL5Hc","name":"gitpane-aarch64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":4748744,"digest":"sha256:fb57bf127111c97796d1b8857da3605e8cea4d1adc990ab81c6a0cf1ff8c2dd1","download_count":1,"created_at":"2026-10-30T04:57:56Z","updated_at":"2026-10-30T04:57:57Z"},{"id":690983385,"node_id":"RA_kwDORXwmec4pL5HZ","name":"gitpane-aarch64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":5662723,"digest":"sha256:eb45f9aaba56a21ea75208bc8c699a1c80fd5d3edc915aa71c1ae36a424e947a","download_count":2,"created_at":"2026-10-30T04:57:56Z","updated_at":"2026-10-30T04:57:57Z"},{"id":690983382,"node_id":"RA_kwDORXwmec4pL5HW","name":"gitpane-explorer-darwin-arm64.vsix","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":5031202,"digest":"sha256:a846058f8287c5e837a9febf190994fcaeebb95477364e2dfc6d99a2a5f89504","download_count":2,"created_at":"2026-10-30T04:57:56Z","updated_at":"2026-10-30T04:57:57Z"},{"id":690983389,"node_id":"RA_kwDORXwmec4pL5Hd","name":"gitpane-explorer-darwin-x64.vsix","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":5198189,"digest":"sha256:e1700b582958596e605dc11a27933f51ce1ba682cdf3aba84e0e9e5cc425e32e","download_count":2,"created_at":"2026-10-30T04:57:56Z","updated_at":"2026-10-30T04:57:57Z"},{"id":690983378,"node_id":"RA_kwDORXwmec4pL5HS","name":"gitpane-explorer-linux-arm64.vsix","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":5923513,"digest":"sha256:8445be560cbdcc3063d787c3af2f1a7a6c753169cafef8ed40d16fb62a736619","download_count":2,"created_at":"2026-10-30T04:57:56Z","updated_at":"2026-10-30T04:57:57Z"},{"id":690983386,"node_id":"RA_kwDORXwmec4pL5Ha","name":"gitpane-explorer-linux-x64.vsix","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":5868633,"digest":"sha256:9071f1e3322d09b9177a9e1304c8fcc7d999cba509529453b531f3ab0e6975c3","download_count":2,"created_at":"2026-10-30T04:57:56Z","updated_at":"2026-10-30T04:57:57Z"},{"id":690983383,"node_id":"RA_kwDORXwmec4pL5HX","name":"gitpane-explorer-win32-x64.vsix","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":5065471,"digest":"sha256:db7869598b20383f6cd7868ab92ac96562dfc58abb228e06f9b75333464f3b60","download_count":2,"created_at":"2026-10-30T04:57:56Z","updated_at":"2026-10-30T04:57:57Z"},{"id":690983381,"node_id":"RA_kwDORXwmec4pL5HV","name":"gitpane-x86_64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":4995897,"digest":"sha256:41d1216fb523dfa3adea3980e886496c3aca919a0ef43786cab1db3cfe8f6235","download_count":1,"created_at":"2026-10-30T04:57:56Z","updated_at":"2026-10-30T04:57:57Z"},{"id":690983380,"node_id":"RA_kwDORXwmec4pL5HU","name":"gitpane-x86_64-pc-windows-msvc.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":4954699,"digest":"sha256:763690733eddace86697470b03ac1cd273ef1830e138f286a0bf5465f39f4599","download_count":1,"created_at":"2026-10-30T04:57:56Z","updated_at":"2026-10-30T04:57:57Z"},{"id":690983379,"node_id":"RA_kwDORXwmec4pL5HT","name":"gitpane-x86_64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":5636347,"digest":"sha256:fd7fc97da397d7ee291eb748bb7a955f92c19b960fbf9478a97fd3ab4dd7584a","download_count":4,"created_at":"2026-10-30T04:57:56Z","updated_at":"2026-10-30T04:57:57Z"},{"id":690983376,"node_id":"RA_kwDORXwmec4pL5HQ","name":"gitpane-x86_64-unknown-linux-musl.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":5926541,"digest":"sha256:dc093f3f7e84e21829e5cef2a7b48fc9109511f976b8f745fa6578b88c5b7880","download_count":2,"created_at":"2026-10-30T04:57:56Z","updated_at":"2026-10-30T04:57:57Z"}],"body":"## [0.18.0] - 2026-10-29\n\n### Added\n- Gitpane Explorer for VS Code shows workspace repositories, linked worktrees and changed files beside the file tree. It updates as workspace repositories change and opens file changes in the editor. The extension includes branch review, the commit graph, repository and worktree actions, submodule inspection, sessions, themes and configured launchers. ([#107](https://github.com/affromero/gitpane/pull/107), closes [#106](https://github.com/affromero/gitpane/issues/106))\n- Install Gitpane Explorer from the VS Code Marketplace, or download a VSIX with its bundled backend for Apple Silicon and Intel Macs, Linux ARM64 and x64, and Windows x64. The README includes a rendered preview, installation steps and settings. ([#107](https://github.com/affromero/gitpane/pull/107))\n\n### Fixed\n- Git process arguments use ordinary Windows paths while repository identity checks retain canonical paths. This fixes content reads and worktree operations that failed on canonical Windows paths. ([#107](https://github.com/affromero/gitpane/pull/107))\n- Parent repository status remains available when a registered submodule is replaced by a file or symlink. ([#107](https://github.com/affromero/gitpane/pull/107))\n- Update libz-sys to 1.1.31 for RUSTSEC-2026-0418 and include the latest merged Git and TLS dependency fixes. ([#107](https://github.com/affromero/gitpane/pull/107), [#104](https://github.com/affromero/gitpane/pull/104), [#102](https://github.com/affromero/gitpane/pull/102), [#96](https://github.com/affromero/gitpane/pull/96))\n\n---\n\nFull changelog: https://github.com/affromero/gitpane/blob/main/CHANGELOG.md\n"}
