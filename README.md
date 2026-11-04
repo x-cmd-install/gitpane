@@ -14,11 +14,11 @@ x install gitpane
 
 ## Code insight
 
-Total: **82,507** lines of code across **267** files in the top 5 languages.
+Total: **82,573** lines of code across **267** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 55,664 | 1,658 | 4,062 | 161 |
+| Rust | 55,730 | 1,657 | 4,068 | 161 |
 | JavaScript | 25,304 | 34 | 1,324 | 94 |
 | Python | 953 | 5 | 105 | 9 |
 | Css | 315 | 0 | 28 | 2 |
@@ -41,8 +41,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.18.3` (2026-10-31)
-- **Last commit**: 2026-11-03
+- **Latest**: `v0.18.4` (2026-11-04)
+- **Last commit**: 2026-11-04
 - **Assets in release**: 11
 
 ## Popularity
@@ -51,34 +51,34 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 84 · **Open PRs**: 0 · **Closed issues**: 47 · **Open issues**: 0 · **Commits**: 781
+- **Releases**: 68 · **Merged PRs**: 84 · **Open PRs**: 0 · **Closed issues**: 47 · **Open issues**: 0 · **Commits**: 785
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 4 | 16 | 0 | 16 | 0 | 102 |
-| last60d | 2026-09-04 | 9 | 37 | 0 | 31 | 0 | 136 |
-| 90d | 2026-08-05 | 20 | 61 | 0 | 40 | 0 | 227 |
-| last180d | 2026-05-07 | 44 | 84 | 0 | 46 | 0 | 447 |
-| 360d | 2025-11-08 | 67 | 84 | 0 | 47 | 0 | 630 |
-| last720d | 2024-11-13 | 67 | 84 | 0 | 47 | 0 | 781 |
+| 30d | 2026-10-05 | 5 | 16 | 0 | 16 | 0 | 104 |
+| last60d | 2026-09-05 | 10 | 37 | 0 | 31 | 0 | 138 |
+| 90d | 2026-08-06 | 19 | 60 | 0 | 40 | 0 | 229 |
+| last180d | 2026-05-08 | 45 | 83 | 0 | 46 | 0 | 449 |
+| 360d | 2025-11-09 | 68 | 84 | 0 | 47 | 0 | 632 |
+| last720d | 2024-11-14 | 68 | 84 | 0 | 47 | 0 | 785 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gitpane-aarch64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-aarch64-apple-darwin.tar.gz) | 4.5 MiB | `native/darwin/arm64` |
-| [gitpane-aarch64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-aarch64-unknown-linux-gnu.tar.gz) | 5.4 MiB | `native/linux/arm64/glibc` |
-| [gitpane-explorer-darwin-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-explorer-darwin-arm64.vsix) | 4.9 MiB | `native/darwin/arm64` |
-| [gitpane-explorer-darwin-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-explorer-darwin-x64.vsix) | 5.0 MiB | `native/darwin/x64` |
-| [gitpane-explorer-linux-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-explorer-linux-arm64.vsix) | 5.7 MiB | `native/linux/arm64` |
-| [gitpane-explorer-linux-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-explorer-linux-x64.vsix) | 5.7 MiB | `other` |
-| [gitpane-explorer-win32-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-explorer-win32-x64.vsix) | 4.9 MiB | `native/win/x64` |
-| [gitpane-x86_64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-x86_64-apple-darwin.tar.gz) | 4.8 MiB | `native/darwin/x64` |
-| [gitpane-x86_64-pc-windows-msvc.zip](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-x86_64-pc-windows-msvc.zip) | 4.7 MiB | `native/win/x64` |
-| [gitpane-x86_64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-x86_64-unknown-linux-gnu.tar.gz) | 5.4 MiB | `native/linux/x64/glibc` |
-| [gitpane-x86_64-unknown-linux-musl.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-x86_64-unknown-linux-musl.tar.gz) | 5.7 MiB | `native/linux/x64/musl` |
+| [gitpane-aarch64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-aarch64-apple-darwin.tar.gz) | 4.6 MiB | `native/darwin/arm64` |
+| [gitpane-aarch64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-aarch64-unknown-linux-gnu.tar.gz) | 5.5 MiB | `native/linux/arm64/glibc` |
+| [gitpane-explorer-darwin-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-explorer-darwin-arm64.vsix) | 4.9 MiB | `native/darwin/arm64` |
+| [gitpane-explorer-darwin-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-explorer-darwin-x64.vsix) | 5.1 MiB | `native/darwin/x64` |
+| [gitpane-explorer-linux-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-explorer-linux-arm64.vsix) | 5.8 MiB | `native/linux/arm64` |
+| [gitpane-explorer-linux-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-explorer-linux-x64.vsix) | 5.7 MiB | `other` |
+| [gitpane-explorer-win32-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-explorer-win32-x64.vsix) | 4.9 MiB | `native/win/x64` |
+| [gitpane-x86_64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-x86_64-apple-darwin.tar.gz) | 4.8 MiB | `native/darwin/x64` |
+| [gitpane-x86_64-pc-windows-msvc.zip](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-x86_64-pc-windows-msvc.zip) | 4.8 MiB | `native/win/x64` |
+| [gitpane-x86_64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-x86_64-unknown-linux-gnu.tar.gz) | 5.5 MiB | `native/linux/x64/glibc` |
+| [gitpane-x86_64-unknown-linux-musl.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-x86_64-unknown-linux-musl.tar.gz) | 5.7 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
@@ -93,4 +93,4 @@ Install metadata for gitpane lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:05:34Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:43:50Z._

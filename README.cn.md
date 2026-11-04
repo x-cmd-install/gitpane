@@ -14,11 +14,11 @@ x install gitpane
 
 ## 代码洞察
 
-合计: **82,507** 行代码（覆盖前 5 种语言、共 **267** 个文件）。
+合计: **82,573** 行代码（覆盖前 5 种语言、共 **267** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 55,664 | 1,658 | 4,062 | 161 |
+| Rust | 55,730 | 1,657 | 4,068 | 161 |
 | JavaScript | 25,304 | 34 | 1,324 | 94 |
 | Python | 953 | 5 | 105 | 9 |
 | Css | 315 | 0 | 28 | 2 |
@@ -41,8 +41,8 @@ x install gitpane
 
 ## 发布
 
-- **最新版本**: `v0.18.3` (2026-10-31)
-- **最近提交**: 2026-11-03
+- **最新版本**: `v0.18.4` (2026-11-04)
+- **最近提交**: 2026-11-04
 - **Release 含资产**: 11 个
 
 ## 流行度
@@ -51,34 +51,34 @@ x install gitpane
 
 ## 累计统计
 
-- **发布数**: 67 · **已合并 PR**: 84 · **开放 PR**: 0 · **已关闭 issue**: 47 · **开放 issue**: 0 · **提交数**: 781
+- **发布数**: 68 · **已合并 PR**: 84 · **开放 PR**: 0 · **已关闭 issue**: 47 · **开放 issue**: 0 · **提交数**: 785
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 4 | 16 | 0 | 16 | 0 | 102 |
-| last60d | 2026-09-04 | 9 | 37 | 0 | 31 | 0 | 136 |
-| 90d | 2026-08-05 | 20 | 61 | 0 | 40 | 0 | 227 |
-| last180d | 2026-05-07 | 44 | 84 | 0 | 46 | 0 | 447 |
-| 360d | 2025-11-08 | 67 | 84 | 0 | 47 | 0 | 630 |
-| last720d | 2024-11-13 | 67 | 84 | 0 | 47 | 0 | 781 |
+| 30d | 2026-10-05 | 5 | 16 | 0 | 16 | 0 | 104 |
+| last60d | 2026-09-05 | 10 | 37 | 0 | 31 | 0 | 138 |
+| 90d | 2026-08-06 | 19 | 60 | 0 | 40 | 0 | 229 |
+| last180d | 2026-05-08 | 45 | 83 | 0 | 46 | 0 | 449 |
+| 360d | 2025-11-09 | 68 | 84 | 0 | 47 | 0 | 632 |
+| last720d | 2024-11-14 | 68 | 84 | 0 | 47 | 0 | 785 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gitpane-aarch64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-aarch64-apple-darwin.tar.gz) | 4.5 MiB | `native/darwin/arm64` |
-| [gitpane-aarch64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-aarch64-unknown-linux-gnu.tar.gz) | 5.4 MiB | `native/linux/arm64/glibc` |
-| [gitpane-explorer-darwin-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-explorer-darwin-arm64.vsix) | 4.9 MiB | `native/darwin/arm64` |
-| [gitpane-explorer-darwin-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-explorer-darwin-x64.vsix) | 5.0 MiB | `native/darwin/x64` |
-| [gitpane-explorer-linux-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-explorer-linux-arm64.vsix) | 5.7 MiB | `native/linux/arm64` |
-| [gitpane-explorer-linux-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-explorer-linux-x64.vsix) | 5.7 MiB | `other` |
-| [gitpane-explorer-win32-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-explorer-win32-x64.vsix) | 4.9 MiB | `native/win/x64` |
-| [gitpane-x86_64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-x86_64-apple-darwin.tar.gz) | 4.8 MiB | `native/darwin/x64` |
-| [gitpane-x86_64-pc-windows-msvc.zip](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-x86_64-pc-windows-msvc.zip) | 4.7 MiB | `native/win/x64` |
-| [gitpane-x86_64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-x86_64-unknown-linux-gnu.tar.gz) | 5.4 MiB | `native/linux/x64/glibc` |
-| [gitpane-x86_64-unknown-linux-musl.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.3/gitpane-x86_64-unknown-linux-musl.tar.gz) | 5.7 MiB | `native/linux/x64/musl` |
+| [gitpane-aarch64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-aarch64-apple-darwin.tar.gz) | 4.6 MiB | `native/darwin/arm64` |
+| [gitpane-aarch64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-aarch64-unknown-linux-gnu.tar.gz) | 5.5 MiB | `native/linux/arm64/glibc` |
+| [gitpane-explorer-darwin-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-explorer-darwin-arm64.vsix) | 4.9 MiB | `native/darwin/arm64` |
+| [gitpane-explorer-darwin-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-explorer-darwin-x64.vsix) | 5.1 MiB | `native/darwin/x64` |
+| [gitpane-explorer-linux-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-explorer-linux-arm64.vsix) | 5.8 MiB | `native/linux/arm64` |
+| [gitpane-explorer-linux-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-explorer-linux-x64.vsix) | 5.7 MiB | `other` |
+| [gitpane-explorer-win32-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-explorer-win32-x64.vsix) | 4.9 MiB | `native/win/x64` |
+| [gitpane-x86_64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-x86_64-apple-darwin.tar.gz) | 4.8 MiB | `native/darwin/x64` |
+| [gitpane-x86_64-pc-windows-msvc.zip](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-x86_64-pc-windows-msvc.zip) | 4.8 MiB | `native/win/x64` |
+| [gitpane-x86_64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-x86_64-unknown-linux-gnu.tar.gz) | 5.5 MiB | `native/linux/x64/glibc` |
+| [gitpane-x86_64-unknown-linux-musl.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.4/gitpane-x86_64-unknown-linux-musl.tar.gz) | 5.7 MiB | `native/linux/x64/musl` |
 
 ## 发行版状态
 
@@ -93,4 +93,4 @@ gitpane 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T08:05:35Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T07:43:51Z._
