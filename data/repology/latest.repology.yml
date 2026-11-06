@@ -62,7 +62,7 @@
   srcname: devel/gitpane
   binname: gitpane
   visiblename: devel/gitpane
-  version: 0.18.0
+  version: 0.18.4
   origversion: null
   status: newest
   summary: Multi-repo Git workspace dashboard for the terminal
