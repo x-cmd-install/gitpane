@@ -2,9 +2,9 @@
   srcname: gitpane
   binname: gitpane
   visiblename: gitpane
-  version: 0.17.1
-  origversion: 0.17.1-1
-  status: outdated
+  version: 0.18.4
+  origversion: 0.18.4-1
+  status: newest
   summary: Multi-repo Git workspace dashboard for the terminal
   maintainers:
     - anelgarhy@aur
@@ -14,9 +14,9 @@
   srcname: gitpane-bin
   binname: gitpane-bin
   visiblename: gitpane-bin
-  version: 0.17.1
-  origversion: 0.17.1-1
-  status: outdated
+  version: 0.18.4
+  origversion: 0.18.4-1
+  status: newest
   summary: Multi-repo Git workspace dashboard for the terminal
   maintainers:
     - anelgarhy@aur
