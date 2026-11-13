@@ -14,15 +14,15 @@ x install gitpane
 
 ## Code insight
 
-Total: **88,401** lines of code across **300** files in the top 5 languages.
+Total: **91,455** lines of code across **316** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 58,762 | 1,696 | 4,247 | 173 |
-| JavaScript | 28,058 | 65 | 1,491 | 114 |
+| Rust | 59,328 | 1,696 | 4,264 | 174 |
+| JavaScript | 30,504 | 67 | 1,611 | 129 |
 | Python | 953 | 5 | 105 | 9 |
-| Css | 337 | 0 | 29 | 3 |
-| Json | 145 | 0 | 0 | 1 |
+| Css | 372 | 0 | 30 | 3 |
+| Json | 152 | 0 | 0 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.18.8` (2026-11-12)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-13
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 138 · **Forks**: 4 · **Open issues**: 55 · **Contributors**: 2
+- **Stars**: 138 · **Forks**: 4 · **Open issues**: 62 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 98 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 0 · **Commits**: 831
+- **Releases**: 72 · **Merged PRs**: 107 · **Open PRs**: 0 · **Closed issues**: 62 · **Open issues**: 0 · **Commits**: 859
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 9 | 29 | 0 | 24 | 0 | 130 |
-| last60d | 2026-09-13 | 11 | 41 | 0 | 31 | 0 | 157 |
-| 90d | 2026-08-14 | 20 | 73 | 0 | 48 | 0 | 242 |
-| last180d | 2026-05-16 | 46 | 97 | 0 | 53 | 0 | 476 |
-| 360d | 2025-11-17 | 72 | 98 | 0 | 55 | 0 | 659 |
-| last720d | 2024-11-22 | 72 | 98 | 0 | 55 | 0 | 831 |
+| 30d | 2026-10-14 | 9 | 38 | 0 | 31 | 0 | 145 |
+| last60d | 2026-09-14 | 11 | 50 | 0 | 38 | 0 | 172 |
+| 90d | 2026-08-15 | 20 | 82 | 0 | 55 | 0 | 257 |
+| last180d | 2026-05-17 | 46 | 106 | 0 | 60 | 0 | 491 |
+| 360d | 2025-11-18 | 72 | 107 | 0 | 62 | 0 | 674 |
+| last720d | 2024-11-23 | 72 | 107 | 0 | 62 | 0 | 859 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **6** distros on [repology.org](https://repology.org/project/gitpane). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **6** distros on [repology.org](https://repology.org/project/gitpane). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -93,4 +93,4 @@ Install metadata for gitpane lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:48:05Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:13:34Z._
