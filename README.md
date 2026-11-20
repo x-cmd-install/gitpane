@@ -14,12 +14,12 @@ x install gitpane
 
 ## Code insight
 
-Total: **96,784** lines of code across **342** files in the top 5 languages.
+Total: **97,107** lines of code across **344** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 63,088 | 1,698 | 4,487 | 188 |
-| JavaScript | 31,942 | 72 | 1,672 | 139 |
+| Rust | 63,286 | 1,698 | 4,499 | 189 |
+| JavaScript | 32,067 | 73 | 1,676 | 140 |
 | Python | 974 | 5 | 109 | 10 |
 | Css | 380 | 0 | 30 | 3 |
 | Json | 161 | 0 | 0 | 2 |
@@ -41,44 +41,44 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.18.13` (2026-11-18)
-- **Last commit**: 2026-11-19
+- **Latest**: `v0.19.0` (2026-11-20)
+- **Last commit**: 2026-11-20
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 140 · **Forks**: 5 · **Open issues**: 95 · **Contributors**: 3
+- **Stars**: 141 · **Forks**: 5 · **Open issues**: 101 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 142 · **Open PRs**: 0 · **Closed issues**: 95 · **Open issues**: 0 · **Commits**: 953
+- **Releases**: 78 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 101 · **Open issues**: 0 · **Commits**: 978
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 14 | 72 | 0 | 63 | 0 | 193 |
-| last60d | 2026-09-20 | 15 | 80 | 0 | 68 | 0 | 205 |
-| 90d | 2026-08-21 | 22 | 103 | 0 | 83 | 0 | 277 |
-| last180d | 2026-05-23 | 48 | 141 | 0 | 93 | 0 | 513 |
-| 360d | 2025-11-24 | 77 | 142 | 0 | 95 | 0 | 724 |
-| last720d | 2024-11-29 | 77 | 142 | 0 | 95 | 0 | 953 |
+| 30d | 2026-10-21 | 15 | 81 | 0 | 69 | 0 | 205 |
+| last60d | 2026-09-21 | 16 | 88 | 0 | 73 | 0 | 217 |
+| 90d | 2026-08-22 | 23 | 112 | 0 | 89 | 0 | 289 |
+| last180d | 2026-05-24 | 48 | 150 | 0 | 99 | 0 | 525 |
+| 360d | 2025-11-25 | 78 | 151 | 0 | 101 | 0 | 736 |
+| last720d | 2024-11-30 | 78 | 151 | 0 | 101 | 0 | 978 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gitpane-aarch64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.13/gitpane-aarch64-apple-darwin.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
-| [gitpane-aarch64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.13/gitpane-aarch64-unknown-linux-gnu.tar.gz) | 5.7 MiB | `native/linux/arm64/glibc` |
-| [gitpane-explorer-darwin-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.13/gitpane-explorer-darwin-arm64.vsix) | 5.1 MiB | `native/darwin/arm64` |
-| [gitpane-explorer-darwin-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.13/gitpane-explorer-darwin-x64.vsix) | 5.3 MiB | `native/darwin/x64` |
-| [gitpane-explorer-linux-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.13/gitpane-explorer-linux-arm64.vsix) | 6.0 MiB | `native/linux/arm64` |
-| [gitpane-explorer-linux-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.13/gitpane-explorer-linux-x64.vsix) | 5.9 MiB | `other` |
-| [gitpane-explorer-win32-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.18.13/gitpane-explorer-win32-x64.vsix) | 5.1 MiB | `native/win/x64` |
-| [gitpane-x86_64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.13/gitpane-x86_64-apple-darwin.tar.gz) | 5.0 MiB | `native/darwin/x64` |
-| [gitpane-x86_64-pc-windows-msvc.zip](https://github.com/affromero/gitpane/releases/download/v0.18.13/gitpane-x86_64-pc-windows-msvc.zip) | 4.9 MiB | `native/win/x64` |
-| [gitpane-x86_64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.13/gitpane-x86_64-unknown-linux-gnu.tar.gz) | 5.6 MiB | `native/linux/x64/glibc` |
-| [gitpane-x86_64-unknown-linux-musl.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.18.13/gitpane-x86_64-unknown-linux-musl.tar.gz) | 5.9 MiB | `native/linux/x64/musl` |
+| [gitpane-aarch64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.19.0/gitpane-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [gitpane-aarch64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.19.0/gitpane-aarch64-unknown-linux-gnu.tar.gz) | 5.8 MiB | `native/linux/arm64/glibc` |
+| [gitpane-explorer-darwin-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.19.0/gitpane-explorer-darwin-arm64.vsix) | 5.3 MiB | `native/darwin/arm64` |
+| [gitpane-explorer-darwin-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.19.0/gitpane-explorer-darwin-x64.vsix) | 5.5 MiB | `native/darwin/x64` |
+| [gitpane-explorer-linux-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.19.0/gitpane-explorer-linux-arm64.vsix) | 6.1 MiB | `native/linux/arm64` |
+| [gitpane-explorer-linux-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.19.0/gitpane-explorer-linux-x64.vsix) | 6.1 MiB | `other` |
+| [gitpane-explorer-win32-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.19.0/gitpane-explorer-win32-x64.vsix) | 5.3 MiB | `native/win/x64` |
+| [gitpane-x86_64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.19.0/gitpane-x86_64-apple-darwin.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [gitpane-x86_64-pc-windows-msvc.zip](https://github.com/affromero/gitpane/releases/download/v0.19.0/gitpane-x86_64-pc-windows-msvc.zip) | 5.1 MiB | `native/win/x64` |
+| [gitpane-x86_64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.19.0/gitpane-x86_64-unknown-linux-gnu.tar.gz) | 5.8 MiB | `native/linux/x64/glibc` |
+| [gitpane-x86_64-unknown-linux-musl.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.19.0/gitpane-x86_64-unknown-linux-musl.tar.gz) | 6.1 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
@@ -93,4 +93,4 @@ Install metadata for gitpane lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:04:34Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:26:44Z._
