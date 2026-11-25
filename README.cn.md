@@ -14,15 +14,15 @@ x install gitpane
 
 ## 代码洞察
 
-合计: **97,898** 行代码（覆盖前 5 种语言、共 **345** 个文件）。
+合计: **98,938** 行代码（覆盖前 5 种语言、共 **347** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 63,739 | 1,700 | 4,513 | 189 |
-| JavaScript | 32,295 | 73 | 1,683 | 140 |
-| Python | 1,085 | 5 | 117 | 11 |
+| Rust | 64,283 | 1,701 | 4,537 | 189 |
+| JavaScript | 32,483 | 73 | 1,703 | 141 |
+| Python | 1,384 | 7 | 143 | 12 |
 | Css | 379 | 0 | 30 | 3 |
-| Json | 161 | 0 | 0 | 2 |
+| Json | 170 | 0 | 0 | 2 |
 
 ## OpenSSF Scorecard 评分
 
@@ -41,48 +41,44 @@ x install gitpane
 
 ## 发布
 
-- **最新版本**: `v0.19.4` (2026-11-23)
-- **最近提交**: 2026-11-23
+- **最新版本**: `v0.20.0` (2026-11-24)
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 141 · **Fork**: 5 · **开放 issue**: 112 · **贡献者**: 3
+- **Star**: 143 · **Fork**: 5 · **开放 issue**: 116 · **贡献者**: 3
 
 ## 累计统计
 
-- **发布数**: 82 · **已合并 PR**: 162 · **开放 PR**: 0 · **已关闭 issue**: 112 · **开放 issue**: 0 · **提交数**: 1011
+- **发布数**: 83 · **已合并 PR**: 168 · **开放 PR**: 1 · **已关闭 issue**: 116 · **开放 issue**: 0 · **提交数**: 1031
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 19 | 91 | 0 | 80 | 0 | 146 |
-| last60d | 2026-09-25 | 19 | 95 | 0 | 82 | 0 | 228 |
-| 90d | 2026-08-26 | 27 | 122 | 0 | 99 | 0 | 276 |
-| last180d | 2026-05-28 | 52 | 161 | 0 | 110 | 0 | 514 |
-| 360d | 2025-11-29 | 82 | 162 | 0 | 112 | 0 | 755 |
-| last720d | 2024-12-04 | 82 | 162 | 0 | 112 | 0 | 1011 |
+| 30d | 2026-10-26 | 20 | 97 | 1 | 84 | 0 | 158 |
+| last60d | 2026-09-26 | 20 | 101 | 1 | 86 | 0 | 240 |
+| 90d | 2026-08-27 | 27 | 125 | 1 | 102 | 0 | 288 |
+| last180d | 2026-05-29 | 53 | 167 | 1 | 114 | 0 | 526 |
+| 360d | 2025-11-30 | 83 | 168 | 1 | 116 | 0 | 767 |
+| last720d | 2024-12-05 | 83 | 168 | 1 | 116 | 0 | 1031 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gitpane-aarch64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.19.4/gitpane-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
-| [gitpane-aarch64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.19.4/gitpane-aarch64-unknown-linux-gnu.tar.gz) | 5.8 MiB | `native/linux/arm64/glibc` |
-| [gitpane-explorer-darwin-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.19.4/gitpane-explorer-darwin-arm64.vsix) | 5.3 MiB | `native/darwin/arm64` |
-| [gitpane-explorer-darwin-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.19.4/gitpane-explorer-darwin-x64.vsix) | 5.4 MiB | `native/darwin/x64` |
-| [gitpane-explorer-linux-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.19.4/gitpane-explorer-linux-arm64.vsix) | 6.1 MiB | `native/linux/arm64` |
-| [gitpane-explorer-linux-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.19.4/gitpane-explorer-linux-x64.vsix) | 6.1 MiB | `other` |
-| [gitpane-explorer-win32-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.19.4/gitpane-explorer-win32-x64.vsix) | 5.3 MiB | `native/win/x64` |
-| [gitpane-x86_64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.19.4/gitpane-x86_64-apple-darwin.tar.gz) | 5.1 MiB | `native/darwin/x64` |
-| [gitpane-x86_64-pc-windows-msvc.zip](https://github.com/affromero/gitpane/releases/download/v0.19.4/gitpane-x86_64-pc-windows-msvc.zip) | 5.1 MiB | `native/win/x64` |
-| [gitpane-x86_64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.19.4/gitpane-x86_64-unknown-linux-gnu.tar.gz) | 5.8 MiB | `native/linux/x64/glibc` |
-| [gitpane-x86_64-unknown-linux-musl.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.19.4/gitpane-x86_64-unknown-linux-musl.tar.gz) | 6.1 MiB | `native/linux/x64/musl` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/gitpane) 上共有 **6** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
+| [gitpane-aarch64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [gitpane-aarch64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-aarch64-unknown-linux-gnu.tar.gz) | 5.9 MiB | `native/linux/arm64/glibc` |
+| [gitpane-explorer-darwin-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-explorer-darwin-arm64.vsix) | 5.3 MiB | `native/darwin/arm64` |
+| [gitpane-explorer-darwin-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-explorer-darwin-x64.vsix) | 5.5 MiB | `native/darwin/x64` |
+| [gitpane-explorer-linux-arm64.vsix](https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-explorer-linux-arm64.vsix) | 6.3 MiB | `native/linux/arm64` |
+| [gitpane-explorer-linux-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-explorer-linux-x64.vsix) | 6.2 MiB | `other` |
+| [gitpane-explorer-win32-x64.vsix](https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-explorer-win32-x64.vsix) | 5.4 MiB | `native/win/x64` |
+| [gitpane-x86_64-apple-darwin.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-x86_64-apple-darwin.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [gitpane-x86_64-pc-windows-msvc.zip](https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-x86_64-pc-windows-msvc.zip) | 5.2 MiB | `native/win/x64` |
+| [gitpane-x86_64-unknown-linux-gnu.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-x86_64-unknown-linux-gnu.tar.gz) | 5.9 MiB | `native/linux/x64/glibc` |
+| [gitpane-x86_64-unknown-linux-musl.tar.gz](https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-x86_64-unknown-linux-musl.tar.gz) | 6.2 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -93,4 +89,4 @@ gitpane 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:47:16Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:32:19Z._
