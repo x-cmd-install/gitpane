@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5151048,
       "digest": "sha256:5f0416970042e51cf19711d1a9ff530cfd76777e4a25f4090d81feb6bae4aa64",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-24T21:13:13Z",
       "updated_at": "2026-11-24T21:13:14Z",
       "browser_download_url": "https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-aarch64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6541730,
       "digest": "sha256:b96f357a4fd7e5951e8494ce4543da3f67f869e3719070804d05f09a057fbc4c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-24T21:13:13Z",
       "updated_at": "2026-11-24T21:13:14Z",
       "browser_download_url": "https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-explorer-linux-x64.vsix"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6221524,
       "digest": "sha256:de70acd204b42589a96f7faf9240f160f256be396527ef772bb612d3f07aac10",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-24T21:13:14Z",
       "updated_at": "2026-11-24T21:13:14Z",
       "browser_download_url": "https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-x86_64-unknown-linux-gnu.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 6531194,
       "digest": "sha256:39239fe6587d3b3964006f6ad9425d9cb0a82b29cbf47787aedd652741c66f2f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-24T21:13:13Z",
       "updated_at": "2026-11-24T21:13:14Z",
       "browser_download_url": "https://github.com/affromero/gitpane/releases/download/v0.20.0/gitpane-x86_64-unknown-linux-musl.tar.gz"
